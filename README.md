@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Jeevan Ramesh Jadhav</h1>
 <h3 align="center">Hi there! 👋 I’m Jeevan, a passionate and motivated Computer Science student with a knack for creating impactful solutions through technology. My expertise spans across AI/ML, web development, data visualization, and creative hosting. Here’s a glimpse of my journey so far:</h3>
 
-- 🌱 I’m currently learning **AI and ML, Data Science, React.js, Node.js**
+- 🌱 I’m currently learning **AI and ML, Data Science, React.js, Node.js, Solidity, Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://nova0206.github.io/Portfolio_website_Jeevan_Jadhav/](https://nova0206.github.io/Portfolio_website_Jeevan_Jadhav/)
 
