@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nova0206.github.io/Portfolio_website_Jeevan_Jadhav/](https://nova0206.github.io/Portfolio_website_Jeevan_Jadhav/)
 
-- 💬 Ask me about **Data Science, LinkedIn, Ai and ML, PowerBi**
+- 💬 Ask me about **Data Science, LinkedIn, Ai and ML, PowerBi, Blockchain, DevOps**
 
 - 📫 How to reach me **jeevanj020604@gmail.com**
 
