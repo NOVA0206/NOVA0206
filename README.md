@@ -56,9 +56,8 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=NOVA0206&color=ff69b4&style=for-the-badge)
 
 - 🎵 **Now Playing on Spotify**  
-  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
+  ### 🌌 Favorite Track  
+[![Racing into the Night](https://img.shields.io/badge/🎶%20Racing%20into%20the%20Night%20by%20YOASOBI-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/3rT6cxdLjJBvQ3Y6d5JXlG)
 
-- 🐍 **Contribution Snake**  
-  ![Snake animation](https://github.com/NOVA0206/NOVA0206/blob/output/github-contribution-grid-snake.svg)
 
 ---
