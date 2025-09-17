@@ -57,7 +57,7 @@
 
 ## 🎵 Now Playing  
 
-[![Racing into the Night - YOASOBI](https://i.scdn.co/image/ab67616d0000b273eeb4e0ee4cb6a24394a5a6f2)](https://open.spotify.com/track/3rT6cxdLjJBvQ3Y6d5JXlG)  
-*Click the cover to listen on Spotify*
+[![Racing into the Night - YOASOBI](https://img.youtube.com/vi/x8VYWazR5mE/maxresdefault.jpg)](https://www.youtube.com/watch?v=x8VYWazR5mE)  
+*Click the cover to watch on YouTube*
 
 ---
