@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Jeevan Ramesh Jadhav</h1>
-<h3 align="center">Hi there! 👋 I’m Jeevan, a passionate and motivated Blockchain Technology student with a knack for creating impactful solutions through technology. My expertise spans across AI/ML, web development, data visualization, AI Automation, Web3 and DevOPs. Here’s a glimpse of my journey so far:</h3>
+<h3 align="center">Hi there! 👋 I’m Jeevan, a passionate and motivated Blockchain Technology student with a knack for creating impactful solutions through technology. My expertise spans across AI/ML, web development, data visualization, AI Automation, Web3 and DevOPs. Here’s a glimpse of my journey:</h3>
 
 ---
 
