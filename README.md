@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI and ML, Data Science, React.js, Next.js, Node.js, Solidity, Blockchain, Agentic AI**
 
-- 👨‍💻 My online Portfolio is available at [https://jeevab-jadhav-portfolio-xe9j.vercel.app/](https://jeevab-jadhav-portfolio-xe9j.vercel.app/)
+- 👨‍💻 My Portfolio is available at [https://jeevab-jadhav-portfolio-xe9j.vercel.app/](https://jeevab-jadhav-portfolio-xe9j.vercel.app/)
 
 - 💬 Ask me about **Data Science, LinkedIn, Ai and ML, PowerBi, Blockchain, DevOps**
 
