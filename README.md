@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Science, LinkedIn, Ai and ML, PowerBi, Blockchain, DevOps**
 
-- 📫 How to reach me **jeevanj020604@gmail.com**
+- 📫 You can reach me at **jeevanj020604@gmail.com**
 
 ---
 
