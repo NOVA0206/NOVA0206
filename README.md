@@ -7,7 +7,7 @@
 
 - 👨‍💻 My Portfolio is available at [https://jeevab-jadhav-portfolio-xe9j.vercel.app/](https://jeevab-jadhav-portfolio-xe9j.vercel.app/)
 
-- 💬 Ask me about **Data Science, LinkedIn, Ai and ML, PowerBi, Blockchain, DevOps**
+- 💬 Ask me about **Data Science, LinkedIn, Ai and ML, PowerBi, Blockchain, DevOps, Agentic AI**
 
 - 📫 You can reach me at **jeevanj020604@gmail.com**
 
